@@ -7,6 +7,8 @@ If you wish to crawl other arXiv categories, use other LLMs or other language, p
 Otherwise, you can directly use this repo. Please star it if you like :)
 
 # Content
+[2025-06-09](data/2025-06-09.md)
+
 [2025-06-08](data/2025-06-08.md)
 
 [2025-06-07](data/2025-06-07.md)
